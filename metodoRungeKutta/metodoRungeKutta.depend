@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1496703512 source:c:\users\andré\documents\metodorungekutta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1496703514 source:g:\cálculo numérico para computação minoru\matcomp\metodorungekutta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

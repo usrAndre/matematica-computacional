@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493775777 source:c:\users\andré\documents\minimosquadrados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

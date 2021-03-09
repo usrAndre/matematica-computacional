@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494982494 source:f:\cálculo numérico para computação minoru\matcomp\metododostrapezios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
